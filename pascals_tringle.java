@@ -25,7 +25,7 @@ public class pascals_tringle {
             }
             System.out.println();
         }
-
+        ///// hello////
     }
 
     public static void main(String[] args) {
